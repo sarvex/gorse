@@ -23,11 +23,11 @@ require (
 	github.com/scylladb/go-set v1.0.2
 	github.com/spf13/cobra v0.0.7
 	github.com/steinfletcher/apitest v1.5.11
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.1
 	go.mongodb.org/mongo-driver v1.5.1
 	go.uber.org/zap v1.17.0
 	gonum.org/v1/gonum v0.0.0-20190409070159-6e46824336d2
-	google.golang.org/grpc v1.37.0
-	google.golang.org/protobuf v1.26.0
+	google.golang.org/grpc v1.53.0
+	google.golang.org/protobuf v1.28.1
 	gopkg.in/yaml.v2 v2.4.0
 )
